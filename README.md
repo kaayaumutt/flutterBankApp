@@ -1,6 +1,6 @@
 # flutterBankApp
 
-# Small Test Project ( Flutter package in firebase_core,cloud_firestore... )
+# Small Test Project ( Flutter package in firebase_core,cloud_firestore...)
 
 ----------------------------------------------------------------------------------
 
