@@ -1,12 +1,12 @@
 # flutterBankApp
 
-Small Test Project ( Flutter package in firebase_core,cloud_firestore... )
+# Small Test Project ( Flutter package in firebase_core,cloud_firestore... )
 
 ----------------------------------------------------------------------------------
 
 # Preview
 
-# --bank_sign_screen.dart
+--bank_sign_screen.dart
 
 <img width="216" alt="sign" src="https://user-images.githubusercontent.com/90245432/196784206-4cbbe895-66a9-41a1-a215-b1663ab1d58f.PNG">
 
