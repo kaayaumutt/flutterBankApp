@@ -44,7 +44,7 @@ class _BankDepositMoneyScreenState extends State<BankDepositMoneyScreen> {
               buildAmountField(),
               SizedBox(height: 10),
 
-              //send money button
+              //deposit money button
               buildDepositMoneyButton(),
               SizedBox(height: 10),
 
