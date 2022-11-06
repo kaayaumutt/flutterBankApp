@@ -18,7 +18,7 @@
 
 <img width="215" alt="home" src="https://user-images.githubusercontent.com/90245432/196784341-3f1fa274-3f78-4246-ac96-816780f5692a.PNG">
 
-<img width="742" alt="firebase" src="https://user-images.githubusercontent.com/90245432/196784363-60c66301-5364-40fc-9fd1-c542c31e7746.PNG">
+<img width="742" alt="196784363-60c66301-5364-40fc-9fd1-c542c31e7746" src="https://user-images.githubusercontent.com/90245432/200161021-a1bb3234-0a8a-455f-8409-7ca6ced9015e.png">
 
 # --bank_withdraw_screen.dart
 
